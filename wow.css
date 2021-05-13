@@ -1,0 +1,11 @@
+#quote-box {
+  text-align: center;
+  background-color: lightblue;
+  border-radius: 25px;
+  border: dotted;
+}
+#new-quote {
+  border-radius: 20px;
+  border-color: red;
+  background-color: lightpink;
+}
